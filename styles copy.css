@@ -1,0 +1,156 @@
+body {
+    background-color: #000000;
+    color:white;
+    margin: 0;
+    font-variant: small-caps;
+    text-align: center;
+
+}
+
+p {
+    font-size:1.5em;
+    color:rgb(255, 255, 255);
+    margin-bottom:100px;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 50px;
+}
+
+
+h1{
+    font-size:8em;
+    font-family: 'Rubik Iso', cursive;
+    margin-top: 250px;
+    margin-bottom:0;
+    color:#ffffff;
+}
+
+h2{
+    font-size: 2.5em;
+    font-family: 'Press Start 2P', cursive;
+    color:#ffffff;
+
+}
+
+h3{
+    color:white;
+    font-size:2em;
+    font-family: 'Press Start 2P', cursive;
+}
+
+hr {
+    margin:100px auto 100px auto;
+    color: 3px solid white;
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~ DIV STYLES ~~~~~~~~~~~~~~*/
+
+.top-container {
+    background-color: #000000;
+}
+
+.skill-row {
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/** ~~~~~~~~~~~~~~~~~~~ ELEMENTS STYLE ~~~~~~~~~~~~~~~~~**/
+.red {
+    color:red;
+}
+
+.btn {
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    margin: 20px;
+    color: black;
+    font-size: 25px;
+    display: inline-block;
+    font-family: 'Press Start 2P';
+}
+
+.footer-link {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-family: 'Press Start 2P';
+    display: inline-block;
+    padding: 8px;
+    font-size: 20px;
+    margin: auto 20px 50px;
+}
+
+.bottom-footer {
+    background-color:white;
+    color:black;
+    margin:0;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+
+
+
+/**    ~~~~~~~~~~~~~~~~~~IMAGE STYLE~~~~~~~~~~~~~~~~      **/
+
+
+#image {
+    width: 100%;
+    margin-bottom: 100px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 210px;
+    top: 35px;
+    width: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 131px;
+    top: 333px;
+    width: 350px;
+}
+
+.profile-pic {
+    width:200px;
+    height:200px;
+    border-radius: 100%;
+    margin-top:20px;
+}
+
+.guitar-img {
+    width:200px;
+    height:200px;
+
+}
+
+.star {
+    width:45px;
+    height:45px;    
+}
+
+.youtube-img {
+    width:200px;
+    height:auto;
+}
+
+
+.computer-img{
+    width:250px;
+}
+
+.coin {
+    width:50px;
+    margin:100px;
+    margin-bottom:30px;
+    margin-top:50px;
+}
+
+
